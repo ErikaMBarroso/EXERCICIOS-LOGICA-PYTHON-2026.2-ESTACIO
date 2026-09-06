@@ -1,0 +1,1 @@
+# Simulação de lançamento de dados com análise estatística

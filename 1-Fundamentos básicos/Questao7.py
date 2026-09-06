@@ -1,0 +1,1 @@
+# Análise simultânea de sinal e paridade

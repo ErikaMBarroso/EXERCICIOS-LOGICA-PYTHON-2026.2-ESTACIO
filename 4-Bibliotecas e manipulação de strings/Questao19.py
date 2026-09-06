@@ -1,0 +1,1 @@
+# Análise linguística completa de uma frase

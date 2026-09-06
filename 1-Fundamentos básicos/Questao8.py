@@ -1,0 +1,1 @@
+# Estatística descritiva de conjunto numérico
